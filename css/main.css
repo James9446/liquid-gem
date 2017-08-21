@@ -66,6 +66,17 @@ header h4 {
 	font-weight: 300;
 }
 
+/* --- Main Photo Section --- */
+
+.spain {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.spain img {
+	border-radius: 25px;
+}
+
 
 
 
