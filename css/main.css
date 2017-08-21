@@ -1,0 +1,55 @@
+* {
+	font-family: sans-serif;
+}
+
+body {
+	background-color: #EEE;
+}
+hr {
+	width: 98%;
+}
+/* --- Navigation Logo Section --- */
+nav {
+	height: 130px;
+}
+
+nav .logo {
+	display: inline-block;
+	padding-top: 30px;
+	padding-left: 10px;
+}
+
+nav .logo p {
+	display: inline-block;
+	font-family: 'Cookie', cursive;
+	font-size: 30px;
+	padding-left: 10px;
+}
+
+nav .logo .fa {
+	color: #EE90A2;
+	font-size: 22px;
+}
+
+/* --- Navigation Links Section --- */
+nav ul {
+	display: inline-block;
+	margin-left: 585px;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 0 30px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #000;
+}
+
+
+
+
+
+
+
