@@ -47,6 +47,24 @@ nav ul li a {
 	color: #000;
 }
 
+/* --- Header Section --- */
+header {
+	text-align: center;
+	padding-top: 50px;
+}
+
+header h1 {
+	font-size: 24px;
+	font-weight: 400;
+}
+
+header span {
+	color: #EE90A2;
+}
+
+header h4 {
+	font-weight: 300;
+}
 
 
 
