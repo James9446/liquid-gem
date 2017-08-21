@@ -77,6 +77,48 @@ header h4 {
 	border-radius: 25px;
 }
 
+/* --- 'About' and 'My Work' Section --- */
+.info {
+	text-align: center;
+	display: inline-block;
+	margin-top: 30px;
+}
+
+.about {
+	display: inline-block;
+	width: 50%;
+	float: left;
+}
+
+.work {
+	display: inline-block;
+	width: 50%;
+	float: right;
+}
+
+.about h4 {
+	font-family: 'Cookie', cursive;
+	color: #EE90A2;
+	font-size: 28px;
+}
+
+.work h4 {
+	font-family: 'Cookie', cursive;
+	color: #EE90A2;
+	font-size: 28px;
+}
+
+.about p {
+	text-align: left;
+	padding: 0 30px;
+}
+
+.work p {
+	text-align: left;
+	padding: 0 30px;
+}
+
+
 
 
 
