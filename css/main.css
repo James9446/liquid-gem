@@ -144,6 +144,17 @@ figcaption span {
 	color: #EE90A2;
 }
 
+/* --- Fairwell Section --- */
+.fairwell {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.fairwell h2 {
+	font-family: 'Cookie', cursive;
+	color: #EE90A2;
+	font-size: 28px;
+}
 
 
 
