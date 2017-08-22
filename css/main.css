@@ -4,6 +4,7 @@
 
 body {
 	background-color: #EEE;
+	margin: 0;
 }
 hr {
 	width: 98%;
@@ -148,6 +149,7 @@ figcaption span {
 .fairwell {
 	text-align: center;
 	margin-top: 50px;
+	margin-bottom: 40px;
 }
 
 .fairwell h2 {
@@ -156,6 +158,56 @@ figcaption span {
 	font-size: 28px;
 }
 
+/* --- Footer --- */
+footer {
+	background-color: #2D2D2D;
+	height: 300px;
+	width: 100%;
+}
+
+.form {
+	margin: 0;
+	width: 50%;
+}
+
+.form h2 {
+	font-family: 'Cookie', cursive;
+	color: #EE90A2;
+	font-size: 28px;
+	padding-top: 50px;
+	margin-left: 10px;
+}
+
+.form form input {
+	display: block;
+	padding: 5px;
+	margin: 10px;
+	width: 500px;
+	border: none;
+	color: #2D2D2D;
+}
+
+.form form textarea {
+	display: block;
+	padding: 5px;
+	margin: 10px;
+	width: 500px;
+	border: none;
+	color: #2D2D2D;
+}
+
+.form form button {
+	display: block;
+	padding: 5px;
+	margin: 10px;
+	background-color: #2D2D2D;
+	color: #FFF;
+	border: none;
+}
+
+.form form button:hover {
+	cursor: pointer;
+}
 
 
 
