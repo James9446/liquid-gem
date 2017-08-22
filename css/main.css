@@ -161,13 +161,14 @@ figcaption span {
 /* --- Footer --- */
 footer {
 	background-color: #2D2D2D;
-	height: 300px;
+	height: 400px;
 	width: 100%;
 }
 
 .form {
 	margin: 0;
 	width: 50%;
+	display: inline-block;
 }
 
 .form h2 {
@@ -209,8 +210,27 @@ footer {
 	cursor: pointer;
 }
 
+.social-media {
+	display: inline-block;
+	/*margin-left: 600px*/
+	/*margin-bottom: 500px;*/
+	padding-left: 450px;
 
+}
 
+.social-media i {
+	padding: 11px;
+	background-color: #EE90A2;
+	border-radius: 30px;
+	
+}
+
+.social-media i .fa {
+	display: inline-block;
+	padding: 20px;
+	padding-bottom: 600px;
+	background-color: #EE90A2;
+}
 
 
 
