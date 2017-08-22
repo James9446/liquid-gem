@@ -118,6 +118,34 @@ header h4 {
 	padding: 0 30px;
 }
 
+/* --- Portfolio Sectio --- */
+.portfolio {
+	margin-top: 50px;
+	margin-left: 75px;
+}
+
+figure {
+	display: inline-block;
+	/*border: 1px solid #000;*/
+	border-radius: 15px;
+	overflow: hidden;
+	margin: 8px;
+}
+
+figcaption {
+	background-color: #FFF;
+	padding: 5px;
+	height: 40px;
+	margin-top: -5px;
+}
+
+figcaption span {
+	font-size: 12px;
+	color: #EE90A2;
+}
+
+
+
 
 
 
