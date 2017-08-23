@@ -210,11 +210,15 @@ footer {
 	cursor: pointer;
 }
 
+/* --- social media links -- */
+
 .social-media {
-	display: inline-block;
+	/*display: inline-block;*/
+	text-align: right;
+	margin-top: -135px;
 	/*margin-left: 600px*/
 	/*margin-bottom: 500px;*/
-	padding-left: 450px;
+	/*padding-left: 450px;*/
 
 }
 
@@ -222,7 +226,15 @@ footer {
 	padding: 11px;
 	background-color: #EE90A2;
 	border-radius: 30px;
-	
+	margin: 10px;
+	width: 18;
+	text-align: center;
+}
+
+.social-media i:nth-child(2) {
+	width: 16px;
+	text-align: center;
+	/*padding: 15px;*/
 }
 
 .social-media i .fa {
@@ -232,6 +244,10 @@ footer {
 	background-color: #EE90A2;
 }
 
+.social-media a {
+	color: #2D2D2D;
+	text-decoration: none;
+}
 
 
 
